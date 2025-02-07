@@ -1,0 +1,12 @@
+{
+  "name": "ConsolePad",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "An extension to bring a simple notepad in your DevTools",
+  "devtools_page": "devtools.html",
+  "permissions": ["tabs"],
+  "author": "Amit Merchant",
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
