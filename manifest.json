@@ -1,6 +1,6 @@
 {
-  "name": "ConsolePad",
-  "version": "1.0",
+  "name": "ConsolePad — The missing notepad in your DevTools",
+  "version": "1.0.1",
   "manifest_version": 3,
   "description": "An extension to bring a simple notepad in your DevTools",
   "devtools_page": "devtools.html",

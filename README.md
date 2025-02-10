@@ -1,3 +1,4 @@
+![](/icons/icon128.png)
 # ConsolePad
 
 A simple Chrome extension to bring a simple notepad in your DevTools.
