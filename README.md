@@ -3,7 +3,7 @@
 
 A simple Chrome extension to bring a simple notepad in your DevTools.
 
-It essentially is a Notepad in your Chrome DevTools.
+[Install it from the Chrome Webstore](https://chromewebstore.google.com/detail/consolepad-%E2%80%94-the-missing/aofkppgpfdhkhlbpfeknkdgfegcbeafo)
 
 ![ConsolePad](/console-pad.png)
 
