@@ -1,5 +1,5 @@
 ![](/icons/icon128.png)
-# ConsolePad
+# ConsolePad — The missing notepad in your DevTools
 
 A simple Chrome extension to bring a simple notepad in your DevTools.
 
