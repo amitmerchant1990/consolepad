@@ -8,5 +8,10 @@
   "author": "Amit Merchant",
   "icons": {
     "128": "icons/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "consolepad@amitmerchant.com"
+    }
   }
 }
