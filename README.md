@@ -5,7 +5,7 @@ A simple Chrome/Firefox extension to bring a simple notepad in your DevTools.
 
 [Install it from the Chrome Webstore](https://chromewebstore.google.com/detail/consolepad-%E2%80%94-the-missing/aofkppgpfdhkhlbpfeknkdgfegcbeafo)
 
-[Install if from the Firefox Add-ons Extensions](https://addons.mozilla.org/addon/consolepad/)
+[Install it from the Firefox Add-ons Extensions](https://addons.mozilla.org/addon/consolepad/)
 
 ![ConsolePad](/console-pad.png)
 
