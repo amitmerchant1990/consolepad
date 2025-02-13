@@ -1,7 +1,7 @@
 ![](/icons/icon128.png)
 # ConsolePad — The missing notepad in your DevTools
 
-A simple Chrome/Firefox extension to bring a simple notepad in your DevTools.
+A Chrome/Firefox extension to bring a simple notepad in your DevTools.
 
 [Install it from the Chrome Webstore](https://chromewebstore.google.com/detail/consolepad-%E2%80%94-the-missing/aofkppgpfdhkhlbpfeknkdgfegcbeafo)
 
